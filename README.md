@@ -1,6 +1,8 @@
 # bmi_calculator
 bmi calculator to calculate your body mass index.
 -Splash Screen
+
+
 ![1](https://github.com/iabdulwahab7/flutter-bmi_calculator/assets/76598467/5d1199a6-9523-40dc-beb2-3249d439fc7f)
 
 ![2](https://github.com/iabdulwahab7/flutter-bmi_calculator/assets/76598467/b1efa257-e8e7-4feb-bafc-6ffb25ab6c03)
